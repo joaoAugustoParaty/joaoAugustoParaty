@@ -1,8 +1,10 @@
-### Olá! Eu sou João Augusto  👋
+### Olá  👋
+
+#Eu sou o  João Augusto, moro no Brasil. 
+* Atualmente procuro por estágio na area de desenvolvimento web. 
+* Sou formado em administração de empresas e tenho uma pós-graduação em Tecnologias para Aplicações Web.
 
 
-- 🔭 Atualmente trabalho com front-end ...
-- 🌱 Estudando HTML, CSS, Javascript, Bootstrap e PHP ...
 
  <div>
   <a href="https://github.com/joaoAugustoParaty">
