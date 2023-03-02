@@ -1,8 +1,9 @@
 ### Olá  👋
 
 #Eu sou o  João Augusto, moro no Brasil. 
-* Atualmente procuro por estágio na area de desenvolvimento web. 
+* Atualmente procuro procuro trabalho na area de desenvolvimento web. 
 * Sou formado em administração de empresas e tenho uma pós-graduação em Tecnologias para Aplicações Web.
+* Estou cursando o último periodo no curso de formação pedagógica em matemática.
 
 
 
